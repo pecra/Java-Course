@@ -1,0 +1,6 @@
+{$= jfkjkj " 123fkf \\ \n " 5.3$}
+This is sample text.
+{$ FOR i 1 10 1 $}{$ FOR i 1 10 1 $}{$END$}{$END$}
+{$FOR i 0 10 2 $}
+ sin({$=i$}^2) = {$= i i * @sin "0.000" @decfmt $}
+{$END$}

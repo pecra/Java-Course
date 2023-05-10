@@ -1,0 +1,10 @@
+{$= jfkjkj " 123fkf \\ \n " 5.3$}
+This is sample text.
+{$ FOR i 1 10 1 $}
+ This is {$= i $}-th time this message is generated.
+{$END$}
+{$FOR i bbb -1.0 "2" $}
+ sin({$=i$}^2) = {$= i i * @sin "0.000" @decfmt$}
+{$END$}
+{$ FOR i-1.35bbb"1" $}
+{$END$}
