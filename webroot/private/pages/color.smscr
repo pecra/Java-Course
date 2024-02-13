@@ -1,0 +1,9 @@
+{$= "text/html" @setMimeType $}
+<html>
+ <head>
+ </head>
+ <body>
+<h1>{$= "message" "Pogreska" @pparamGet $}</h1>
+ <h1><a href="/index2.html">Home</a></h1>
+ </body>
+</html>
